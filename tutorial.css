@@ -1,0 +1,18 @@
+/*change the style of text within h1 tags */
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: darkgray;
+}
+
+p {
+    color: maroon;
+}
+
+form {
+    text-align: center;
+}
